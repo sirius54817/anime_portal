@@ -56,3 +56,4 @@ This project is for educational purposes only. The streaming sites linked within
 - Flutter team for the amazing framework
 - The anime community
 # anime__portal
+# anime__portal
