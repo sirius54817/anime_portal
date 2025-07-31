@@ -62,3 +62,4 @@ This project is for educational purposes only. The streaming sites linked within
 # anime__portal
 # anime__portal
 # anime__portal
+# anime_portal
